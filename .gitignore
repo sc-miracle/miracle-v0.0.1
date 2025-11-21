@@ -1,0 +1,15 @@
+**/.vscode/
+**/__pycache__/
+
+**/dataset/
+**/lightning_logs/
+**/saved_models/
+**/demo*_temp/
+
+dist/
+src/scmidas.egg-info/
+to_script.sh
+atlas.ipynb
+demo1.ipynb
+DOTEA.ipynb
+test_miracle.ipynb
