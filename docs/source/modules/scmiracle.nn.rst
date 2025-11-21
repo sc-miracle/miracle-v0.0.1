@@ -1,5 +1,5 @@
 scmiracle.nn
-==========
+============
 
 .. automodule:: scmiracle.nn
    :members:

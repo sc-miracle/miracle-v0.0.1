@@ -1,5 +1,5 @@
 scmiracle.config
-==============
+================
 
 .. automodule:: scmiracle.config
    :members:

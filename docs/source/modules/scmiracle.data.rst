@@ -1,5 +1,5 @@
 scmiracle.data
-============
+==============
 
 .. automodule:: scmiracle.data
    :members:

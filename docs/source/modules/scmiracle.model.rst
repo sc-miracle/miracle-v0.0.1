@@ -1,5 +1,5 @@
 scmiracle.model
-=============
+===============
 
 .. automodule:: scmiracle.model
    :members:

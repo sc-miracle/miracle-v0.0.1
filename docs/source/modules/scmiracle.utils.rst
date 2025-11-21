@@ -1,5 +1,5 @@
 scmiracle.utils
-=============
+===============
 
 .. automodule:: scmiracle.utils
    :members:
