@@ -2,26 +2,14 @@
 
 To ensure compatibility with **Python v3.12.7** and **Lightning v2.4.0**, we recommend creating a new environment using **conda** to avoid conflicts with existing setups.
 
-## Step 1: Creating a New Environment
-
-Run the following command to create a new environment named `scmidas`:
 
 ```bash
-conda create -n scmidas python=3.12
-```
-
-Activate the environment:
-
-```bash
-conda activate scmidas
-```
-
-## Step 2: Installing scmidas
-
-Use `pip` to install the package:
-
-```bash
-pip install scmidas
+git clone https://github.com/sc-miracle/miracle.git
+conda create -n scmiracle python=3.12
+conda activate scmiracle
+cd miracle
+pip install -r docs/source/requirements.txt
+pip install -e .
 ```
 
 <!-- **Option 1: Install via pip**
@@ -29,7 +17,7 @@ pip install scmidas
 Use `pip` to install the package:
 
 ```bash
-pip install scmidas
+pip install scmiracle
 ``` -->
 
 <!-- **Option 2: Install via conda**
@@ -37,7 +25,7 @@ pip install scmidas
 Alternatively, you can install the package directly using conda:
 
 ```bash
-conda install scmidas
+conda install scmiracle
 ``` -->
 
 **You're All Set!**

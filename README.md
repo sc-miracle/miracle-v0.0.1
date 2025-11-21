@@ -39,7 +39,7 @@ For base model (MIDAS):
 
 ## 🚀 Installation
 
-Get started with MIDAS by setting up a conda environment.
+Get started with MIRACLE by setting up a conda environment.
 
 ```bash
 git clone https://github.com/sc-miracle/miracle.git
