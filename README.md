@@ -14,23 +14,12 @@ By employing <strong> dynamic architecture adaptation and data rehearsal strateg
 facilitates precise query mapping to reference atlases, improving the accuracy of cell label transfer and novel cell discovery.
 
 - **MIRACLE Documentation:** [**scmiracle.readthedocs.io**](https://miracle-v001.readthedocs.io/index.html)
-- **MIDAS Documentation:** [**scmidas.readthedocs.io**](https://scmidas.readthedocs.io/en/latest)
 <!-- - **Publication:** [***Nature Biotechnology***](https://www.nature.com/articles/s41587-023-02040-y) -->
 
 ## ✨ Key Features
-For MIRACLE:
 *    **Boosted Efficiency with Continual Integration**: Incrementally add new data batches to an existing model, which eliminates the need for complete retraining and significantly reduces computational requirements.
 *    **Dynamic Feature Space Adaptation**: Seamlessly incorporate new data containing novel features (e.g., new genes or proteins not present in the original dataset). The model dynamically expands its feature space, ensuring no information is lost when integrating data from different technologies or antibody panels.
 *    **Intelligent Data Summarization for Rehearsal**: Employs a distribution-preserving sampling strategy (BTS) to compress past data into a small, representative core set. This "rehearsal" dataset enables efficient knowledge retention during updates without needing to store all historical data, making the process highly scalable and shareable.
-
-For base model (MIDAS):
-*    **Multi-Modal Support**: Natively supports RNA, ADT, and ATAC data, and can be easily configured to incorporate additional modalities.
-*   **Mosaic Data Integration**: Seamlessly integrates datasets where different batches measure different sets of modalities (e.g., some samples have RNA and ATAC, while others have only RNA).
-
-*   **Data Imputation**: Accurately imputes missing modalities, turning incomplete data into a complete multi-modal matrix.
-*   **Batch Correction**: Effectively removes technical variations between different batches, enabling consistent and reliable analysis across datasets.
-*   **Efficient and Scalable**: Built on PyTorch Lightning for highly efficient model training, with support for advanced strategies like Distributed Data Parallel (DDP).
-*   **Advanced Visualization**: Integrates with TensorBoard for real-time monitoring of training loss and UMAP visualizations.
 
 ## 🚀 Installation
 
