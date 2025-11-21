@@ -1,7 +1,7 @@
-scmidas.model
+scmiracle.utils
 =============
 
-.. automodule:: scmidas.model
+.. automodule:: scmiracle.utils
    :members:
    :undoc-members:
    :show-inheritance:

@@ -1,7 +1,7 @@
-scmidas.data
-============
+scmiracle.nn
+==========
 
-.. automodule:: scmidas.data
+.. automodule:: scmiracle.nn
    :members:
    :undoc-members:
    :show-inheritance:

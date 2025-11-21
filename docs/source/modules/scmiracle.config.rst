@@ -1,7 +1,7 @@
-scmidas.config
+scmiracle.config
 ==============
 
-.. automodule:: scmidas.config
+.. automodule:: scmiracle.config
    :members:
    :undoc-members:
    :show-inheritance:
