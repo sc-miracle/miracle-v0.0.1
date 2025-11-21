@@ -47,7 +47,7 @@ pip install -e .
 
 ## ⚡ Getting Started
 
-To get started, please refer to our [documentation](https://scmiracle.readthedocs.io/en/latest/).
+To get started, please refer to our [documentation](https://miracle-v001.readthedocs.io/index.html).
 
 ## 📈 Reproducibility
 
