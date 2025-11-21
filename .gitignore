@@ -10,6 +10,5 @@ dist/
 src/scmidas.egg-info/
 to_script.sh
 atlas.ipynb
-demo1.ipynb
 DOTEA.ipynb
 test_miracle.ipynb
