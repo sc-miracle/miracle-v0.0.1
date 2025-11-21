@@ -4,6 +4,5 @@ Tutorials
 .. toctree::
    :maxdepth: 2
 
-   basics/index
-
+   demo1.ipynb
 
