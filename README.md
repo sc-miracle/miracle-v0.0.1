@@ -27,6 +27,8 @@ facilitates precise query mapping to reference atlases, improving the accuracy o
 ## ✨ Key Features
 For MIRACLE:
 *    **Boosted Efficiency with Continual Integration**: Incrementally add new data batches to an existing model, which eliminates the need for complete retraining and significantly reduces computational requirements.
+*    **Dynamic Feature Space Adaptation**: Seamlessly incorporate new data containing novel features (e.g., new genes or proteins not present in the original dataset). The model dynamically expands its feature space, ensuring no information is lost when integrating data from different technologies or antibody panels.
+*    **Intelligent Data Summarization for Rehearsal**: Employs a distribution-preserving sampling strategy (BTS) to compress past data into a small, representative core set. This "rehearsal" dataset enables efficient knowledge retention during updates without needing to store all historical data, making the process highly scalable and shareable.
 
 For base model (MIDAS):
 *    **Multi-Modal Support**: Natively supports RNA, ADT, and ATAC data, and can be easily configured to incorporate additional modalities.
