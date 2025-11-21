@@ -13,7 +13,7 @@ By employing <strong> dynamic architecture adaptation and data rehearsal strateg
 **MIRACLE** , an online integration framework for multimodal single-cell integration via continual learning (CL). CL enables models to incrementally incorporate new data while preserving previously acquired knowledge. MIRACLE employs CL strategies including dynamic architecture adaptation and data rehearsal to enhance adaptability and knowledge retention. It leverages MIDAS as a base model to support the integration of multimodal mosaic data, enabling online updates across diverse omics. MIRACLE also 
 facilitates precise query mapping to reference atlases, improving the accuracy of cell label transfer and novel cell discovery.
 
-- **MIRACLE Documentation:** [**scmiracle.readthedocs.io**](https://scmiracle.readthedocs.io/en/latest/)
+- **MIRACLE Documentation:** [**scmiracle.readthedocs.io**](https://miracle-v001.readthedocs.io/index.html)
 - **MIDAS Documentation:** [**scmidas.readthedocs.io**](https://scmidas.readthedocs.io/en/latest)
 <!-- - **Publication:** [***Nature Biotechnology***](https://www.nature.com/articles/s41587-023-02040-y) -->
 

@@ -49,7 +49,7 @@ templates_path = ['_templates']
 exclude_patterns = []
 
 html_static_path = ['_static']
-html_logo = "_static/img/midas_small_color3.svg"
+# html_logo = "_static/img/midas_small_color3.svg"
 
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
