@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-By employing <strong> dynamic architecture adaptation and data rehearsalstrategies </strong>, MIRACLE enables <strong> continual integration  </strong> of diverse datasets while preserving biological fidelity over time.
+By employing <strong> dynamic architecture adaptation and data rehearsal strategies </strong>, MIRACLE enables <strong> continual integration  </strong> of diverse datasets while preserving biological fidelity over time.
 </p>
 
 ---
