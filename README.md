@@ -8,13 +8,6 @@
 By employing <strong> dynamic architecture adaptation and data rehearsalstrategies </strong>, MIRACLE enables <strong> continual integration  </strong> of diverse datasets while preserving biological fidelity over time.
 </p>
 
-<p align="center">
-  <a href="https://github.com/sc-miracle/miracle/stargazers"><img src="https://img.shields.io/github/stars/sc-miracle/miracle?style=social" alt="GitHub Stars"></a>
-  <!-- <a href="https://pypi.org/project/scmidas/"><img src="https://img.shields.io/pypi/v/scmidas" alt="PyPI version"></a> -->
-  <a href="https://scmiracle.readthedocs.io/en/latest/"><img src="https://img.shields.io/readthedocs/scmiracle" alt="Documentation Status"></a>
-  <a href="https://github.com/sc-miracle/miracle/LICENSE"><img src="https://img.shields.io/github/license/sc-miracle/miracle?v=1" alt="License"></a>
-</p>
-
 ---
 
 **MIRACLE** , an online integration framework for multimodal single-cell integration via continual learning (CL). CL enables models to incrementally incorporate new data while preserving previously acquired knowledge. MIRACLE employs CL strategies including dynamic architecture adaptation and data rehearsal to enhance adaptability and knowledge retention. It leverages MIDAS as a base model to support the integration of multimodal mosaic data, enabling online updates across diverse omics. MIRACLE also 
