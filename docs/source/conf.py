@@ -6,10 +6,10 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'midas'
-copyright = '2024, labomics'
-author = 'labomics'
-release = '0.1.13'
+project = 'miracle'
+copyright = '2025, xxx'
+author = 'xxx'
+release = '0.0.1'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
